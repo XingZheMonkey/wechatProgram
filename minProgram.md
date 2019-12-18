@@ -55,10 +55,10 @@
    ```
    <!-- 在app中存储全局变量 -->
    App({
-   	 globalData(){
-   	 	name:"全局name"
-   	 }
-   	})
+ 	globalData(){
+	    name:"全局name"
+ 	}
+   })
 
 
    <!--在子页面中调用-->
